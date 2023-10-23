@@ -1,0 +1,22 @@
+#banner {
+padding: 0;   
+display: block;
+margin: 0 auto;
+max-height: 100%;
+max-width: 100%;
+}
+
+h6 {
+font-family: 'montagu Slab', sans-serif;    
+font-weight: 100%;
+color: black;
+position: absolute;
+border-bottom-color: darkslategrey;
+bottom; 0px;
+}
+
+h3 {
+    font-family:cursive
+    font-weight: 700;
+    color: pink;
+}
